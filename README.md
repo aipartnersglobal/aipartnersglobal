@@ -2,7 +2,7 @@
 - 👀 I’m interested in the use cases of AI and the future of work.
 - 🌱 I’m currently learning about AI and various cutting edge technology along with building.
 - 💞️ I’m looking to collaborate on your most preferred platforms and channels. 
-- 📫 How to reach me aipartnerspodcast@gmail.com or ring us @ (209)260-1057.
+- 📫 How to reach me aipartnerspodcast@gmail.com or ring us at (209)260-1057.
 - 😄 Pronouns: They/their
 - ⚡ Fun fact: helping human flourishing with AI & science
 
