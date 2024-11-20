@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @aipartnerslab
+- 👋 Hi, I’m @aipartners
 - 👀 I’m interested in the use cases of AI and the future of work.
 - 🌱 I’m currently learning about AI and various cutting edge technology along with building.
 - 💞️ I’m looking to collaborate on your most preferred platforms and channels. 
 - 📫 How to reach me aipartnerspodcast@gmail.com or ring us at (209)260-1057.
 - 😄 Pronouns: They/their
-- ⚡ Fun fact: helping human flourishing with AI, science, and technology.
+- ⚡ Fun fact: help human flourishing with AI, science, and technology.
 
 <!---
-aipartnerslab/aipartnerslab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aipartners/aipartners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Tech Stack
@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
